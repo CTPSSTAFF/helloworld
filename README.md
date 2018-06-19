@@ -14,4 +14,8 @@ now a line from rstudio
 
 now from a mapped network drive
 
+<<<<<<< HEAD
 testing a pull via (4) RStudio
+=======
+testing a pull via (3) RStudio
+>>>>>>> 0533da692057a4548c8671c31e49872d9ef9305a
