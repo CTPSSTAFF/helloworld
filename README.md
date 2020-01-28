@@ -22,3 +22,5 @@ a = a + 2
 back in action? 
 
 made a lot of unpdates in R. Make sure to use to mapped drive!
+
+From spa's home computer?
